@@ -2,3 +2,6 @@ set relativenumber
 set encoding=utf8
 set term=xterm-256color
 syntax on
+
+
+"testing pushing and pulling
